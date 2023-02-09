@@ -23,7 +23,7 @@ const Hero = (props) => (
         <Button
           onClick={(e) => {
             e.preventDefault();
-            window.location.href = "/resume/index.html";
+            window.location.href = "/resume/index";
           }}
         >
           My Resume
