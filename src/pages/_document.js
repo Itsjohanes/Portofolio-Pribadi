@@ -65,10 +65,7 @@ export default class MyDocument extends Document {
             property="twitter:description"
             content="Hey there, I'm Johannes Alexander Putra Full Stack Developer & Android Developer"
           />
-          <meta
-            property="twitter:image"
-            content="https://www.vipuljha.com/images/banner.png"
-          />
+         
         </Head>
         <body>
           <Main />
