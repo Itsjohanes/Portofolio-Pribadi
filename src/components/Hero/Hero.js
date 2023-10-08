@@ -20,14 +20,7 @@ const Hero = (props) => (
           "Hey there, I'm Johannes Alexander Putra FullStack Developer & Android
           Developer"
         </SectionText>
-        <Button
-          onClick={(e) => {
-            e.preventDefault();
-            window.location.href = "/resume/index";
-          }}
-        >
-          My Resume
-        </Button>
+        
       </LeftSection>
     </Section>
   </>
